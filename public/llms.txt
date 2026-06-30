@@ -1,0 +1,15 @@
+# Touch Golf
+
+Welcome to Touch Golf. This is a premium mini-golf experience designed with modern aesthetics, glassmorphism, and dynamic animations.
+
+## Site Structure
+- **Home**: The main landing page showcasing the hero section, interactive elements, and navigation.
+
+## Purpose
+Touch Golf aims to provide an engaging and beautiful interface for mini-golf enthusiasts.
+
+## Design
+The design utilizes a soothing linear gradient background (from `#b8dce8` to `#c2ddd5`) with atmospheric cloud layers, ensuring a vibrant and relaxing visual experience.
+
+## SEO Context
+This site is fully optimized with Next.js, including valid `sitemap.xml`, `robots.txt`, and rich Open Graph/Twitter metadata.
